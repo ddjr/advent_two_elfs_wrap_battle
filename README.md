@@ -1,4 +1,4 @@
-# Advent Two: elf's Wrap Battle
+# Advent Two: The Elf's Wrap Battle
 
 This project was part of the adventofcode.com code challenge. This is project one. Each project has two parts. This program completes both parts. Instructions from http://adventofcode.com/day/2 for both parts are below.
 

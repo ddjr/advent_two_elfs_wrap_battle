@@ -1,6 +1,8 @@
 # Advent Two: The Elf's Wrap Battle
 
-This project was part of the adventofcode.com code challenge. This is project one. Each project has two parts. This program completes both parts. Instructions from http://adventofcode.com/day/2 for both parts are below.
+This project was part of the adventofcode.com code challenge. This is project one. Each project has two parts. This program completes both parts. Run this program by typing: python advent_two.py advent2_text.txt into your terminal.
+
+Instructions from http://adventofcode.com/day/2 for both parts are below.
 
 --- Day 2: I Was Told There Would Be No Math ---
 
